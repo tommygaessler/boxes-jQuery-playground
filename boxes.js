@@ -39,15 +39,15 @@ $(document).ready(function() {
     $(this).css({'background': 'url(http://images.all-free-download.com/images/graphiclarge/cute_dog_photo_picture_7_168843.jpg)', 'background-size': 'contain'});
   });
 
-  $('#container').on('click', function(){
-    // $('#container').css('background', 'lime');
-    //
-    // $('#container').css('background', 'black');
-
-
-    if ($('div').hasClass('box'))
-    {
-      $('.box').css('background', 'white');
-    }
-  });
+  // $('#container').on('click', function(){
+  //   $('#container').css('background', 'lime');
+  //
+  //   $('#container').css('background', 'black');
+  //
+  //
+  //   if ($('div').hasClass('box'))
+  //   {
+  //     $('.box').css('background', 'white');
+  //   }
+  // });
 });
